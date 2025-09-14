@@ -1,0 +1,16 @@
+[
+  {
+    "id": "mm-001",
+    "question": "What evidence supports the claim that retrieval quality improved?",
+    "reference": "The chart image and text notes both show higher recall after reranking.",
+    "required_keywords": ["chart", "recall", "reranking"],
+    "required_modalities": ["image", "text"]
+  },
+  {
+    "id": "mm-002",
+    "question": "How does keyframe selection help video QA?",
+    "reference": "Selecting informative video frames reduces noise and improves answer grounding.",
+    "required_keywords": ["frames", "noise", "grounding"],
+    "required_modalities": ["video"]
+  }
+]

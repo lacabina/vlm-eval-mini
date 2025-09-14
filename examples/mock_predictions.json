@@ -1,0 +1,10 @@
+[
+  {
+    "id": "mm-001",
+    "prediction": "The chart and document text indicate recall improved once reranking was added."
+  },
+  {
+    "id": "mm-002",
+    "prediction": "Using selected video frames filters noise and gives stronger grounding evidence."
+  }
+]
